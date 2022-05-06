@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @regentCracker
+- 👋 Hi, I’m @regentCracker (or Oren IRL)
 - 👀 I’m mostly interested in pure math but code from time to time.
 - 🌱 I’m currently studying for a bachelor's degree (in math) and train with the Israeli team for the [IMO](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad).
 - 💞️ I’m looking to collaborate on any anything that's cool, really.
